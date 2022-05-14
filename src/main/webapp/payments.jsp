@@ -14,8 +14,8 @@
 	src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script
 	src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-<link rel="stylesheet" href="Views/style.css">
-
+<link rel="stylesheet" href="Views/bootstrap.min.css">
+<link rel="stylesheet" href="Views/bootstrap.css">
 
 
 <script type="text/javascript" src="Components/payments.js"></script>
